@@ -1,8 +1,12 @@
 # React-VideoPlayer
 React YouTube Video Player
 
-Utilizes YouTube API Search to query for videos. The default is search is the best basketball player in the world, LeBron James. 
+## Summary
+Utilizes YouTube API Search to query for videos. The default search is set to the best basketball player in the world, LeBron James. 
 
-To install, clone the project.
-npm install
-npm start
+To get started, just clone the app and run the following commands:
+```
+  npm install
+  npm start
+```
+Open your browser and open up `localhost:8080` to view it!
