@@ -17,7 +17,7 @@ class App extends Component {
 			selectedVideo: null
 		};
 
-		this.videoSearch('LeBron James');
+		this.videoSearch('Cavs Warriors Game 7');
 	}
 
 	videoSearch(term) {

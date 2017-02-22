@@ -2,7 +2,7 @@
 React YouTube Video Player
 
 ## Summary
-Utilizes YouTube API Search to query for videos. The default search is set to the best basketball player in the world, LeBron James. 
+Utilizes YouTube API Search to query for videos. The default search is set to the world basketball champions, Cleveland Cavaliers. 
 
 To get started, just clone the app and run the following commands:
 ```
